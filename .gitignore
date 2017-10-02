@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Unity
+*/Library/*
+*/Temp/*
+*/Assets/3d-models*
+*/Assets/Standard Assets
+*/Builds/*
+*/Assets/DOTween/*
+
+*/Assets/Materials/*

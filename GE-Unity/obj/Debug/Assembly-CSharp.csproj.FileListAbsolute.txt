@@ -37,3 +37,42 @@ C:\repo\GE MVP\Temp\bin\Debug\DOTween.xml
 C:\repo\GE MVP\Temp\bin\Debug\DOTween43.xml
 C:\repo\GE MVP\Temp\bin\Debug\DOTween46.xml
 C:\repo\GE MVP\Temp\bin\Debug\DOTween50.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Assembly-CSharp.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween43.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween46.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween50.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\nunit.framework.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEditor.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.UI.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.VR.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Mono.Cecil.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Unity.DataContract.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Unity.CecilTools.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEditor.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.UI.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\nunit.framework.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\UnityEngine.VR.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween43.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween46.xml
+C:\repo\GE-Digital\GE-Unity\Temp\bin\Debug\DOTween50.xml
+C:\repo\GE-Digital\GE-Unity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\repo\GE-Digital\GE-Unity\obj\Debug\Assembly-CSharp.dll
+C:\repo\GE-Digital\GE-Unity\obj\Debug\Assembly-CSharp.pdb

@@ -20,15 +20,15 @@ public class ViewController : MonoBehaviour {
 	public CameraFlyer cameraFlyer;
 	public HotspotUIController hotspotUIController;
 
+	public GameObject enterpriseSceneUIContainer;
+
 
 	/* State */
 	string currentHotspotId = null;
 
 	/* Lifecycle */
 	void Start () {
-
-
-		//Hardcode these here for now, later read from config file
+	//Hardcode these here for now, later read from config file
 
 		localSceneCameraPosition = new Vector3 (24.7f, 66.8f, 80f);
 		localSceneCameraRotation = new Vector3 (32.1f, 188.5f, 0f);
@@ -45,13 +45,14 @@ public class ViewController : MonoBehaviour {
 
 
 		// Set intial Conditions
-		moveCameraToLocalScene();
+		//moveCameraToLocalScene();
 	}
 
-	private void moveCameraToLocalScene() {
+	public void moveCameraToLocalScene() {
 		//Camera.main.transform.DOLocalMove()
 		Camera.main.transform.localPosition = localSceneCameraPosition;
 		Camera.main.transform.eulerAngles = localSceneCameraRotation;
+		enterpriseSceneUIContainer.SetActive (false);
 	}
 
 	void Update () {

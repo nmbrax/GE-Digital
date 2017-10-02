@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FA00B955-58EE-5ACF-136A-DC99FFE73008}</ProjectGuid>
+    <ProjectGuid>{6157AAFC-6513-D7EC-F53B-25A5E3384044}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,12 +46,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\HotspotUIController.cs" />
      <Compile Include="Assets\Scripts\Button3Drotator.cs" />
      <Compile Include="Assets\Scripts\Button3dCollider.cs" />
      <Compile Include="Assets\Scripts\Button3dDelegate.cs" />
      <Compile Include="Assets\Scripts\CameraFlyer.cs" />
      <Compile Include="Assets\Scripts\HotSpot.cs" />
+     <Compile Include="Assets\Scripts\HotspotUIController.cs" />
      <Compile Include="Assets\Scripts\ViewController.cs" />
      <Compile Include="Assets\Scripts\rotateController.cs" />
      <None Include="Assets\DOTween\DOTween43.xml" />
@@ -80,16 +80,16 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>C:/repo/GE MVP/Assets/DOTween/DOTween.dll</HintPath>
+ <HintPath>C:/repo/GE-Digital/GE-Unity/Assets/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>C:/repo/GE MVP/Assets/DOTween/DOTween43.dll</HintPath>
+ <HintPath>C:/repo/GE-Digital/GE-Unity/Assets/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>C:/repo/GE MVP/Assets/DOTween/DOTween46.dll</HintPath>
+ <HintPath>C:/repo/GE-Digital/GE-Unity/Assets/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
- <HintPath>C:/repo/GE MVP/Assets/DOTween/DOTween50.dll</HintPath>
+ <HintPath>C:/repo/GE-Digital/GE-Unity/Assets/DOTween/DOTween50.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
